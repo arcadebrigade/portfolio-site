@@ -110,5 +110,12 @@ a:hover {
 }
 .icons li i {
 	display: inline-block;
-	line-height: 32px;
+}
+
+/* Portfolio Section */
+.main_container {
+	border: 1px solid transparent;
+	margin: 20px auto 100px 23.5%;
+	display: block;
+	vertical-align: baseline;
 }
